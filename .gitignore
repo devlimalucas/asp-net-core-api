@@ -1,0 +1,41 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET secrets
+secrets.json
+
+# Entity Framework
+migrations/
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Configuration files
+appsettings.Development.json
+appsettings.Local.json
+
+# IDE settings
+.vscode/
+.vs/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Others
+*.db
+*.sqlite
